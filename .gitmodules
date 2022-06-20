@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "cmstatr"]
+	path = cmstatr
+	url = https://github.com/cmstatr/cmstatr
+	shallow = true
+	registered = true
