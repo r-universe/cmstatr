@@ -5,3 +5,6 @@
 [submodule "cmstatr"]
 	path = cmstatr
 	url = https://github.com/cmstatr/cmstatr
+[submodule "cmstatrExt"]
+	path = cmstatrExt
+	url = https://github.com/cmstatr/cmstatrext
